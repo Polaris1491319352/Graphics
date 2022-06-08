@@ -1,1 +1,4 @@
+>实验三
 
+
+![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work_3.jpg)
