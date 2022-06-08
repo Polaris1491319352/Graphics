@@ -154,7 +154,7 @@ void PolyScan()
   
 ![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work_4.2.jpg)
   
--实验体会:算法流程大概是
+_实验体会:算法流程大概是
 1.使用鼠标逐个输入多边形的定点，并且使用数组vertexes记录点的位置；
 2.构建边表：
 初始化边表数组的长度为绘图区域的高度；
