@@ -1,7 +1,39 @@
 # 实验三
 ## 时间：2022年3月30日  地点：信息学院2202机房
 ## 1.实验内容：  熟悉OPENGL，通过Bresenham中点、改进Bresenham算法生成直线段  参考课本代码，了解Bresenham算法的原理。
+```void lineBres(int x0,int y0,int xEnd,int yEnd)
+{
+    int dx = abs(xEnd-x0),dy=abs(yEnd-y0);
+    int p=2*dy-dx;
+    int twoDY=2*dy;
+    int twoDyMinusDx=2*(dy-dx);
+    int x,y;
 
+    if(x0>xEnd)
+    {
+        x=xEnd;
+        y=yEnd;
+        xEnd=x0;
+    }
+    else
+    {
+        x=x0;
+        y=y0;
+    }
+    setPixel(x,y);
+    while(x<xEnd)
+    {
+        x++;
+        if(p<0)
+            p+=twoDY;
+        else
+        {
+            y++;
+            p+=twoDyMinusDx;
+        }
+        setPixel(x,y);
+    }
+}  ```
 `<  hello world  >`    
 ```hello world```  
 ![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work_3.jpg)
