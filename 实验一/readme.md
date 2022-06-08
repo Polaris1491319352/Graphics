@@ -1,7 +1,5 @@
 # 实验一
-##OpenGL glut的安装；
-初步熟悉OpenGL编程及其编程框架；
-熟悉OpenGL，通过示例程序生成直线段等图元；  
+## OpenGL glut的安装；  初步熟悉OpenGL编程及其编程框架；  熟悉OpenGL，通过示例程序生成直线段等图元；  
 `<  void lineSegment(void)
 {
     glClear(GL_COLOR_BUFFER_BIT);// 清空显示窗口
