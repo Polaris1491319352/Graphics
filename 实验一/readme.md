@@ -1,4 +1,5 @@
-# 实验一
+# 实验一 直线段生成算法
+## 信息学院2202机房
 ## OpenGL glut的安装；  初步熟悉OpenGL编程及其编程框架；  熟悉OpenGL，通过示例程序生成直线段等图元；  
 `<  void lineSegment(void)
 {
