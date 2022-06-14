@@ -2,3 +2,12 @@
 ## 时间：2022年4月13 日  地点：信息学院2202机房
 ### 1.实验内容：圆的扫描转换。种子点填充算法2.实验目的：输入圆的半径，画出圆。输入多边形，种子点位置，填充多边形。 
 
+
+
+
+
+
+
+
+![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work5_1.jpg)  
+![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work5_2.jpg)  
