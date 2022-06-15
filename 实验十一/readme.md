@@ -6,7 +6,7 @@
 
 
 
-![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work5_2.jpg)  
+![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work11.jpg)  
 _OpenGL中通过鼠标和键盘跟程序交互的实现需要实现注册鼠标和键盘响应事件，在一定条件下，该事件被触发，事件里的程序被执行，达到交互的目的。
 通过glutMouseFunc(&OnMouse)注册鼠标事件，OnMouse是鼠标事件的响应，函数格式是void OnMouse(int button,int state,int x,int y)；
 通过glutKeyboardFunc(&KeyBoards)注册键盘事件，KeyBoards是键盘事件的响应，函数格式void KeyBoards(unsigned char key,int x,int y)；
