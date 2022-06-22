@@ -6,5 +6,5 @@
 
 
 
-![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work16.jpg)
+![image](https://github.com/Polaris1491319352/Graphics/blob/main/image/work_16.jpg)
 
